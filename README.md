@@ -13,10 +13,10 @@ This application was developed as a **group project** by a team of
 Android developers as part of academic/learning collaboration.
 
 **Team Members:** 
-- Ritesh Bhosale\
-- \Pratik Kore\
-- \Anju Aurade\
-- \Anushri Kawade\
+- Ritesh Bhosale
+- Pratik Kore
+- Anju Aurade
+- Anushri Kawade
 
 ------------------------------------------------------------------------
 
